@@ -145,14 +145,14 @@ span.tag {
 }
 
 .card__image {
-	width: 23rem;
-	height: 23rem;
+	width: 20rem;
+	height: 20rem;
 	margin-bottom: 2rem;
 	overflow: hidden;
 }
 .card__image img {
 	object-fit: cover;
-	width: 80%;
+	width: 100%;
 	margin: auto;
 }
 
