@@ -48,6 +48,11 @@ a:hover {
 .label-conf { background-color: #0A82FF; }
 .label-post { background-color: #47FF9C; }
 
+.label-fs { background-color: #A7EEFF; }
+.label-cache { background-color: #BECDFF; }
+.label-storage { background-color: #5ABEF5; }
+.label-app { background-color: #FFC3FA; }
+
 .navbar {
 	width: 100%;
 	background-color: rgba(0,0,0,0.85);
