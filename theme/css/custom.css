@@ -149,6 +149,7 @@ span.tag {
 	height: 20rem;
 	margin-bottom: 2rem;
 	overflow: hidden;
+	vertical-align: middle;
 }
 .card__image img {
 	object-fit: cover;
